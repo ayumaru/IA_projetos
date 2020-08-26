@@ -1,2 +1,2 @@
 # IA_projetos
-trabalhos da dicioplina CI1209 do departamento de informática da UFPR
+trabalhos da diciplina CI1209 do departamento de informática da UFPR
