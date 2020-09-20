@@ -6,3 +6,6 @@ Unicas modificações realizadas foram no arquivo codigo/busca.py para implement
 
 # trabalho 2:
 Implementação da atualização de pesos no perceptron e método de comparação dos classificadores.
+
+# trabalho 3:
+Tentativa de implementação dos algoritmos de Q-learning reforçado e Q-learning aproximado
